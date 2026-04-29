@@ -61,11 +61,11 @@ Each weather condition was then compared against this baseline to measure deviat
 
 -  Consistent Daily Pattern
   Bike rentals follow a stable commute-driven pattern, with peaks in the morning and evening.
--  Temperature Influences Evening Demand
+-  Temperature influences evening demand
   Warmer temperatures significantly increase evening rentals, suggesting discretionary trips after work.
--  Humidity Suppresses Non-Essential Trips
+-  Humidity suppresses non-essential trips
   High humidity reduces rentals after the morning peak, indicating rider sensitivity to comfort.
--  Precipitation Has the Strongest Impact
+-  Precipitation has the strongest impact
   Rain and mixed precipitation consistently reduce rentals across all time periods.
 
 
